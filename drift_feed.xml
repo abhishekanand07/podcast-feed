@@ -15,8 +15,17 @@
     <itunes:category text="Music"/>
     <itunes:image href="https://abhishekanand07.github.io/podcast-feed/drift_cover.jpg"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 23 Nov 2026 18:27:17 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 19:44:53 -0000</lastBuildDate>
     
+    <item>
+      <title>Thinking About You — Chill Hip Hop Mix</title>
+      <description>Thinking About You — Chill Hip Hop Mix — a chill hip-hop and RnB playlist for late nights and quiet moments.</description>
+      <enclosure url="https://abhishekanand07.github.io/podcast-feed/episodes/drift_0c5a1521.mp3" length="5931719" type="audio/mpeg"/>
+      <guid isPermaLink="false">0c5a1521</guid>
+      <pubDate>Mon, 23 Nov 2026 19:44:10 -0000</pubDate>
+      <itunes:duration>6:10</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+    </item>
     <item>
       <title>Late Night Vibes — Chill Hip Hop Mix</title>
       <description>Late Night Vibes — Chill Hip Hop Mix — a chill hip-hop and R&amp;B playlist for late nights and quiet moments.</description>
