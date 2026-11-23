@@ -7,11 +7,15 @@
     <link>https://www.youtube.com/@MoonfallMusic</link>
     <description>Ambient music and nature sounds for sleep, meditation and deep rest under the moonlight.</description>
     <language>en-us</language>
-    <itunes:author>Drift Chill</itunes:author>
+    <itunes:author>Drift and Chill</itunes:author>
+    <itunes:owner>
+      <itunes:name>Drift and Chill</itunes:name>
+      <itunes:email>driftchill014@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:category text="Health"/>
     <itunes:image href="https://abhishekanand07.github.io/podcast-feed/moonfall_cover.jpg"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 23 Nov 2026 17:45:29 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 19:44:53 -0000</lastBuildDate>
     
   </channel>
 </rss>
