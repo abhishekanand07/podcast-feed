@@ -8,10 +8,14 @@
     <description>Late night chill hip-hop and RnB playlists for night drives, quiet rooms and everything in between.</description>
     <language>en-us</language>
     <itunes:author>Drift and Chill</itunes:author>
+    <itunes:owner>
+      <itunes:name>Drift and Chill</itunes:name>
+      <itunes:email>driftchill014@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:category text="Music"/>
     <itunes:image href="https://abhishekanand07.github.io/podcast-feed/drift_cover.jpg"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 23 Nov 2026 18:19:26 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:27:17 -0000</lastBuildDate>
     
     <item>
       <title>Late Night Vibes — Chill Hip Hop Mix</title>
