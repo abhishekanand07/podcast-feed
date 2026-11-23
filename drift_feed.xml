@@ -11,11 +11,11 @@
     <itunes:category text="Music"/>
     <itunes:image href="https://abhishekanand07.github.io/podcast-feed/drift_cover.jpg"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 23 Nov 2026 18:14:02 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:19:26 -0000</lastBuildDate>
     
     <item>
       <title>Late Night Vibes — Chill Hip Hop Mix</title>
-      <description>Late Night Vibes — Chill Hip Hop Mix — a chill hip-hop and R&B playlist for late nights and quiet moments.</description>
+      <description>Late Night Vibes — Chill Hip Hop Mix — a chill hip-hop and R&amp;B playlist for late nights and quiet moments.</description>
       <enclosure url="https://abhishekanand07.github.io/podcast-feed/episodes/drift_bc409f50.mp3" length="5931719" type="audio/mpeg"/>
       <guid isPermaLink="false">bc409f50</guid>
       <pubDate>Mon, 23 Nov 2026 17:45:05 -0000</pubDate>
